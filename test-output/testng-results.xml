@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-03-24T11:11:11 IST" name="Default suite" finished-at="2023-03-24T11:11:20 IST" duration-ms="9277">
+    <groups>
+    </groups>
+    <test started-at="2023-03-24T11:11:11 IST" name="Default test" finished-at="2023-03-24T11:11:20 IST" duration-ms="9277">
+      <class name="teslatestpage.testlamain">
+        <test-method is-config="true" signature="Setup()[pri:0, instance:teslatestpage.testlamain@383bfa16]" started-at="2023-03-24T11:11:11 IST" name="Setup" finished-at="2023-03-24T11:11:14 IST" duration-ms="3854" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Setup -->
+        <test-method signature="clickshop()[pri:1, instance:teslatestpage.testlamain@383bfa16]" started-at="2023-03-24T11:11:14 IST" name="clickshop" finished-at="2023-03-24T11:11:20 IST" duration-ms="5404" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- clickshop -->
+      </class> <!-- teslatestpage.testlamain -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
